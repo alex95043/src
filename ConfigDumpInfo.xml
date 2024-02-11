@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
+	<ConfigVersions>
+		<Metadata name="Catalog.Workers" id="6fc9fd49-676f-44fa-aa99-c4922f683ad2" configVersion="9845192a4c1f714d8d3376f5c8de325800000000">
+			<Metadata name="Catalog.Workers.Attribute.Gender" id="bd1ed4c3-bd3d-4522-8ab0-0bfa899674c7"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="f8a12d82fc161b4ab89b8040e964f0c900000000"/>
+		<Metadata name="Enum.Male" id="4845e973-d63c-4411-af34-9b5a7a73a497" configVersion="3e4ae2921c92e44faa1e780b725eed9300000000">
+			<Metadata name="Enum.Male.EnumValue.Female" id="28e72070-a587-46c8-8111-e4dbe0083dea"/>
+			<Metadata name="Enum.Male.EnumValue.Male" id="4a358632-3e11-49f9-b9f7-4981d7276315"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="853e2c13-6a47-40d3-80a4-0bfef9ef7285" configVersion="05d50782e8e29340ba44719ff6d5434800000000"/>
+		<Metadata name="Subsystem.MAIN" id="405b4121-1f1c-4154-8e58-ddfe75a8f852" configVersion="a473b9cd76b0fa43b928835aeefc8a1c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
