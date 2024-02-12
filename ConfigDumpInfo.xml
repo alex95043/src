@@ -1,8 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.16">
 	<ConfigVersions>
-		<Metadata name="Catalog.Workers" id="6fc9fd49-676f-44fa-aa99-c4922f683ad2" configVersion="9845192a4c1f714d8d3376f5c8de325800000000">
+		<Metadata name="Catalog.Workers" id="6fc9fd49-676f-44fa-aa99-c4922f683ad2" configVersion="817aa5c627373b4dac4556cf8fdfdd0700000000">
 			<Metadata name="Catalog.Workers.Attribute.Gender" id="bd1ed4c3-bd3d-4522-8ab0-0bfa899674c7"/>
+			<Metadata name="Catalog.Workers.Attribute.Birthday" id="eaa65b93-b309-4cb1-8a34-4a8f4c1877f9"/>
 		</Metadata>
 		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="f8a12d82fc161b4ab89b8040e964f0c900000000"/>
 		<Metadata name="Enum.Male" id="4845e973-d63c-4411-af34-9b5a7a73a497" configVersion="3e4ae2921c92e44faa1e780b725eed9300000000">
