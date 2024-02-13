@@ -5,7 +5,10 @@
 			<Metadata name="Catalog.Workers.Attribute.Gender" id="bd1ed4c3-bd3d-4522-8ab0-0bfa899674c7"/>
 			<Metadata name="Catalog.Workers.Attribute.Birthday" id="eaa65b93-b309-4cb1-8a34-4a8f4c1877f9"/>
 		</Metadata>
-		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="f8a12d82fc161b4ab89b8040e964f0c900000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="4d0888c7-d284-440a-bd6f-a057ac66f748" configVersion="0d5cf62d7253b944981203afa350d0ee00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4d0888c7-d284-440a-bd6f-a057ac66f748.0" configVersion="7ddb23917333b346b3dfeab597b0ac8d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="2898f6672b0b804ab4b30fd2db17f07c00000000"/>
+		<Metadata name="Constant.КоличествоСотрудников" id="944567de-da1e-4560-a5db-419a30f15729" configVersion="8a3b9951e3e97146bf122778c0ede03b00000000"/>
 		<Metadata name="Enum.Male" id="4845e973-d63c-4411-af34-9b5a7a73a497" configVersion="3e4ae2921c92e44faa1e780b725eed9300000000">
 			<Metadata name="Enum.Male.EnumValue.Female" id="28e72070-a587-46c8-8111-e4dbe0083dea"/>
 			<Metadata name="Enum.Male.EnumValue.Male" id="4a358632-3e11-49f9-b9f7-4981d7276315"/>

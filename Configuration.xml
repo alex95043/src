@@ -225,6 +225,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>MAIN</Subsystem>
+			<CommonModule>ОбщийМодуль1</CommonModule>
+			<Constant>КоличествоСотрудников</Constant>
 			<Catalog>Workers</Catalog>
 			<Enum>Male</Enum>
 		</ChildObjects>
