@@ -18,6 +18,7 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Workers</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.Male</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Constant.КоличествоСотрудников</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>
