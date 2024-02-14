@@ -226,8 +226,10 @@
 			<Language>Русский</Language>
 			<Subsystem>MAIN</Subsystem>
 			<CommonModule>ОбщийМодуль1</CommonModule>
+			<CommonModule>ОбщийМодуль2</CommonModule>
 			<Constant>КоличествоСотрудников</Constant>
 			<Catalog>Workers</Catalog>
+			<Document>ДокументОплаты</Document>
 			<Enum>Male</Enum>
 		</ChildObjects>
 	</Configuration>

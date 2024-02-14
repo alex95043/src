@@ -5,15 +5,21 @@
 			<Metadata name="Catalog.Workers.Attribute.Childs" id="1ce150ba-7e4f-42f6-83b5-4d4a2631610b"/>
 			<Metadata name="Catalog.Workers.Attribute.Gender" id="bd1ed4c3-bd3d-4522-8ab0-0bfa899674c7"/>
 		</Metadata>
-		<Metadata name="CommonModule.ОбщийМодуль1" id="4d0888c7-d284-440a-bd6f-a057ac66f748" configVersion="25a8ba7d38745646a6605a2ccf5d8e4b00000000"/>
-		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4d0888c7-d284-440a-bd6f-a057ac66f748.0" configVersion="cd9befc30d4af7479cde4107ad325b7c00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="2898f6672b0b804ab4b30fd2db17f07c00000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="4d0888c7-d284-440a-bd6f-a057ac66f748" configVersion="942a6d61a8263d4fb91f967d604eb27800000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="4d0888c7-d284-440a-bd6f-a057ac66f748.0" configVersion="1db70717311494498ab83441147791c200000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2" id="7819df7d-1d1f-4a8c-b6bb-4c57536db87f" configVersion="6d3b338cbd82d74ca1590a020e9d68a100000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль2.Module" id="7819df7d-1d1f-4a8c-b6bb-4c57536db87f.0" configVersion="5279dfa9eed9c846b5f5073b45d6c19100000000"/>
+		<Metadata name="Configuration.Конфигурация" id="090bfa9a-006f-4288-9203-a10d79a2ea5e" configVersion="9ec1d2dc944f3546983ed9925d8d6cfb00000000"/>
 		<Metadata name="Constant.КоличествоСотрудников" id="944567de-da1e-4560-a5db-419a30f15729" configVersion="8a3b9951e3e97146bf122778c0ede03b00000000"/>
+		<Metadata name="Document.ДокументОплаты" id="f35feb62-aadf-453b-b349-572dfa58cbae" configVersion="9e573bed84e59c41a7a321a6ed1d300c00000000">
+			<Metadata name="Document.ДокументОплаты.Attribute.Сумма" id="54a2f2fc-2c30-46e3-a8b0-283714154aee"/>
+			<Metadata name="Document.ДокументОплаты.Attribute.Дата" id="ae758bca-bd9c-48a9-8867-42425d2a2fd1"/>
+		</Metadata>
 		<Metadata name="Enum.Male" id="4845e973-d63c-4411-af34-9b5a7a73a497" configVersion="3e4ae2921c92e44faa1e780b725eed9300000000">
 			<Metadata name="Enum.Male.EnumValue.Female" id="28e72070-a587-46c8-8111-e4dbe0083dea"/>
 			<Metadata name="Enum.Male.EnumValue.Male" id="4a358632-3e11-49f9-b9f7-4981d7276315"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="853e2c13-6a47-40d3-80a4-0bfef9ef7285" configVersion="05d50782e8e29340ba44719ff6d5434800000000"/>
-		<Metadata name="Subsystem.MAIN" id="405b4121-1f1c-4154-8e58-ddfe75a8f852" configVersion="fca80cc249c33b4faeac4cdb77c0a23800000000"/>
+		<Metadata name="Subsystem.MAIN" id="405b4121-1f1c-4154-8e58-ddfe75a8f852" configVersion="ec006d1ea4bf0e48a3a81d517526008d00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
